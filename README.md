@@ -3,7 +3,7 @@ Introduction
 
 This repo showcases the PoC of the new `interop` module of `therecipe/qt` and is part of a series of language bindings for Qt.
 
-The series consists of the [Go](https://github.com/therecipe/qt), the [JavaScript/TypeScript](https://github.com/therecipe/entry), the [Dart/Flutter](https://github.com/therecipe/entry), the [Haxe](https://github.com/therecipe/haxe) and the [Swift](https://github.com/therecipe/swift) binding for Qt.
+The series consists of the [Go](https://github.com/therecipe/qt), the [JavaScript/TypeScript](https://github.com/therecipe/entry), the [Dart/Flutter](https://github.com/therecipe/flutter), the [Haxe](https://github.com/therecipe/haxe) and the [Swift](https://github.com/therecipe/swift) binding for Qt.
 
 Other bindings to languages such as Kotlin, Java, C#, Python, Node.js and Ruby are planned as well.
 
